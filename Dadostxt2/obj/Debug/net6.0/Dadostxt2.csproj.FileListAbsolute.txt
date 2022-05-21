@@ -1,0 +1,15 @@
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\bin\Debug\net6.0\Dadostxt2.exe
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\bin\Debug\net6.0\Dadostxt2.deps.json
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\bin\Debug\net6.0\Dadostxt2.runtimeconfig.json
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\bin\Debug\net6.0\Dadostxt2.dll
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\bin\Debug\net6.0\Dadostxt2.pdb
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\obj\Debug\net6.0\Dadostxt2.csproj.AssemblyReference.cache
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\obj\Debug\net6.0\Dadostxt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\obj\Debug\net6.0\Dadostxt2.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\obj\Debug\net6.0\Dadostxt2.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\obj\Debug\net6.0\Dadostxt2.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\obj\Debug\net6.0\Dadostxt2.dll
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\obj\Debug\net6.0\refint\Dadostxt2.dll
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\obj\Debug\net6.0\Dadostxt2.pdb
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\obj\Debug\net6.0\Dadostxt2.genruntimeconfig.cache
+C:\Users\Fagner Fernandes\source\repos\Dadostxt2\Dadostxt2\obj\Debug\net6.0\ref\Dadostxt2.dll
