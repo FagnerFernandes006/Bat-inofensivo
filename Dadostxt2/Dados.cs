@@ -13,13 +13,6 @@ namespace Dadostxt2
             System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
             startInfo.FileName = path;
             StreamWriter sw = new StreamWriter(path);
-            sw.WriteLine("@echo off");
-            sw.WriteLine("cls");
-            sw.WriteLine("@echo    *********************************************************");
-            sw.WriteLine("@echo    ***  Voce foi hackeado Precione Enter para continuar  ***");
-            sw.WriteLine("@echo    *********************************************************");
-            sw.WriteLine("pause");
-            sw.WriteLine("calc");
             sw.WriteLine("calc");
             sw.WriteLine("explorer");
             sw.WriteLine("notepad");

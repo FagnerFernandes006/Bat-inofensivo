@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fagner Fernandes\\source\\repos\\Dadostxt2\\Dadostxt2\\Dadostxt2.csproj",
+      "projectUniqueName": "C:\\Users\\Fagner Fernandes\\Source\\Repos\\Testando-cmd-pelo-C-\\Dadostxt2\\Dadostxt2.csproj",
       "projectName": "Dadostxt2",
-      "projectPath": "C:\\Users\\Fagner Fernandes\\source\\repos\\Dadostxt2\\Dadostxt2\\Dadostxt2.csproj",
+      "projectPath": "C:\\Users\\Fagner Fernandes\\Source\\Repos\\Testando-cmd-pelo-C-\\Dadostxt2\\Dadostxt2.csproj",
       "packagesPath": "C:\\Users\\Fagner Fernandes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fagner Fernandes\\source\\repos\\Dadostxt2\\Dadostxt2\\obj\\",
+      "outputPath": "C:\\Users\\Fagner Fernandes\\Source\\Repos\\Testando-cmd-pelo-C-\\Dadostxt2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

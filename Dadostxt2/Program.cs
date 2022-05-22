@@ -11,7 +11,7 @@ namespace Dadostxt2
         static void Main(string[] args)
         {
             
-            string path = @"C:\Temp\virus.bat";
+            string path = @"C:\Temp\Dados.bat";
             Dados dados = new Dados();
             if (!File.Exists(@"C:\Temp\"))
             {
